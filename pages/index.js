@@ -237,7 +237,7 @@ export default function Home() {
                 color={"black"}
                 fontSize="lg"
               >
-                Makurdi, Benue State.
+                Makurdi.
               </Text>
             </HStack>
 
