@@ -440,7 +440,7 @@ export default function Home() {
             </Text>
             
             <Text fontSize={"2xl"} fontWeight="500" pl="20px" mt='20px'>
-              Full Stack Developer Intern (Remote).
+              Full Stack Intern (Remote).
             </Text>
             <Text fontSize={"xl"} fontWeight="400" pl="20px">
               I4G+Zuri Inc.
