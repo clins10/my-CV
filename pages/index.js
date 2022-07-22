@@ -417,7 +417,7 @@ export default function Home() {
               pr={{ base: "20px", md: "20px" }}
               pl={{ base: "20px", md: "20px" }}
             >
-              I'm a gritty and goal driven software Engineer with 1+ years of
+              I am a gritty and goal driven software Engineer with 1+ years of
               industry experience. Proficient in JavaScript, ReactJs, SQL/MYSQL,
               Chakra UI, and Bootstrap.<br/><br/>
               I have a strong desire to make a positive impact in any
