@@ -10,7 +10,4 @@ function MyApp({ Component, pageProps }) {
 
 export default MyApp
 
-<<<<<<< HEAD
-=======
-// Language: javascript ecosystem
->>>>>>> 203cae6270235277f00062ba584db28ec62f861a
+// Language: javascript ecosystem nextjs react-chakra-ui
