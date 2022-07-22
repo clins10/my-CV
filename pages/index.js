@@ -284,18 +284,7 @@ export default function Home() {
                 React Js
               </Text>
             </HStack>
-            <HStack textAlign={{ base: "left", md: "right" }} mb="8px" w="100%">
-              <Text
-                pr="20px"
-                pl={{ base: "20px" }}
-                w="100%"
-                letterSpacing="1px"
-                color={"black"}
-                fontSize="lg"
-              >
-                Next Js
-              </Text>
-            </HStack>
+            
             <HStack textAlign={{ base: "left", md: "right" }} mb="8px" w="100%">
               <Text
                 pr="20px"
